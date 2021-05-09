@@ -19,5 +19,5 @@ Developer, musician, passionated about frontend development technologies, creati
 <p align="left">
 <a href="https://linkedin.com/in/onurelibol" target="blank"><img align="center" src="https://raw.githubusercontent.com/elibolonur/elibolonur/main/linkedin.svg" alt="onurelibol" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/onurelibol" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="onurelibol" height="40" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://medium.com/onurelibol" target="blank"><img align="center" src="https://raw.githubusercontent.com/elibolonur/elibolonur/main/medium.svg" alt="onurelibol" height="30" width="40" /></a>
+<a href="https://onurelibol.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/elibolonur/elibolonur/main/medium.svg" alt="onurelibol" height="30" width="40" /></a>
 </p>
